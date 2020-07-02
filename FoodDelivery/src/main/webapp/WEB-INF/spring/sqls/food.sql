@@ -1,0 +1,5 @@
+drop table FOODDEL;
+
+CREATE TABLE FOODDEL(
+
+);
