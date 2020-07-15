@@ -13,7 +13,18 @@
 <link rel="stylesheet" href="resources/css/main.css">
 <script type="text/javascript" src="resources/js/main.js"></script>
 
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/> 
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+
 <body>
 <%@ include file="header.jsp" %>
+
+	<div class="imgslider">
+		<div><img src="resources/img/food1.jpg"></div>
+		<div><img src="resources/img/food2.jpg"></div>
+		<div><img src="resources/img/food3.jpg"></div>
+	</div>
+
 </body>
 </html>
