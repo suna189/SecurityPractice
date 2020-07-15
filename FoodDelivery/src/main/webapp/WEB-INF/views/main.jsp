@@ -25,6 +25,15 @@
 		<div><img src="resources/img/food2.jpg"></div>
 		<div><img src="resources/img/food3.jpg"></div>
 	</div>
+	<div class="join">
+		<a class="sign" href="#">Sign up</a>&nbsp;/&nbsp;<a class="sign" href="#">Sign in</a>
+	</div>
+
+	<div class="noting">
+		<span>
+			Thank you for visiting us.<br/>
+		</span>
+	</div>
 
 </body>
 </html>
